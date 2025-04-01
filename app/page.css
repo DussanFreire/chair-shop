@@ -20,7 +20,9 @@
 }
 
 .header-text {
+  font-size: 18px;
   margin-bottom: 24px;
+  line-height: 1.7;
 }
 
 /* FEATURES */
@@ -29,9 +31,12 @@
 
 .features-title {
   margin-bottom: 16px;
+  font-size: 20px;
 }
 
 .features-text {
+  font-size: 18px;
+  line-height: 1.7;
 }
 
 /* TESTIMONIAL */
@@ -45,11 +50,14 @@
 
 .testimonial-box h2 {
   margin-bottom: 24px;
+  font-size: 24px;
 }
 
 .testimonial-text {
   font-style: italic;
   margin-bottom: 24px;
+  font-size: 18px;
+  line-height: 1.7;
 }
 
 /* CHAIRS */
@@ -79,4 +87,5 @@
 .chair-price {
   display: flex;
   justify-content: space-between;
+  font-size: 20px;
 }
